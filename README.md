@@ -37,7 +37,7 @@
 						<section style="padding-top:50px">
 							<div align="left" style="display:flex; flex-direction: row; justify-content: center; align-items: center">
 								<img class="rounded-image" style="width:150px; height:150px" src="images/selfie3.jpg" alt="" />
-								<p style="padding-left:25px">
+								<p style="padding-left:25px; min-width: 250px">
 									Hello! I'm a software engineer and computer scientist with industry experience and a passion to learn. Feel free to explore my front-end and back-end experience, projects, and resume. Thank you for visiting!
 								</p>
 							</div>
@@ -50,7 +50,7 @@
 
 
 			<!-- Projects -->
-			<div style="padding-top: 30px; padding-left: 12.5%; padding-right: 11%; overflow: auto; min-width: 850px; min-height: 1050px " id="projects">
+			<div style="padding-top: 30px; padding-left: 12.5%; padding-right: 11%; min-width: 850px; min-height: 1050px " id="projects">
 				<h2 style="font-family: Helvetica; max-height: 45px;padding-bottom: 0px">Projects</h2>
 				<!--<hr style="font-weight: 100; font-size: xx-small; color: rgba(.01,.01,.01, 0.1); "/>-->
 				<div style=" padding-bottom: 35px; max-height: 700px; padding-top: 25px ">
